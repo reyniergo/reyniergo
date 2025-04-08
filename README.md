@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy un Full Stack Developer desde Panamá
 
-Soy un desarrollador apasionado por la tecnología, la naturaleza y las buenas experiencias. Trabajo con lenguajes como **C#**, **Python**, **JavaScript** y **TypeScript**, y siempre estoy en busca de nuevos retos y aventuras — tanto en el código como en la vida 🌿✈️☕
+Soy un desarrollador apasionado por la tecnología, la naturaleza y las buenas experiencias. Trabajo con lenguajes como **C#**, **PHP**, **Python**, **JavaScript** y **TypeScript**, y siempre estoy en busca de nuevos retos y aventuras — tanto en el código como en la vida 🌿✈️☕
 
 ---
 
 ## 💻 Tech Stack
 
-- ⚙️ **Backend:** C# (.NET), Python, Node.js
-- 🎨 **Frontend:** JavaScript, TypeScript, Expo.js, React, React Native, Next.js, Vue.js, Nuxt.js, Angular
+- ⚙️ **Backend:** C# (.NET), Python, Node.js, PHP
+- 🎨 **Frontend:** JavaScript, TypeScript, Expo.js, React, React Native, Next.js, Vue.js, Nuxt.js, Angular, Laravel
 - 🗃️ **Bases de Datos:** SQL Server, PostgreSQL, MySQL, MongoDB, Firebase
 - 🐳 **DevOps:** Docker, Git, CI/CD
 
