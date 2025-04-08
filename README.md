@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy un Full Stack Developer desde Panamá
+# 👋 ¡Hola! Soy Reynier Gonzalez - Full Stack Developer
 
 Soy un desarrollador apasionado por la tecnología, la naturaleza y las buenas experiencias. Trabajo con lenguajes como **C#**, **PHP**, **Python**, **JavaScript** y **TypeScript**, y siempre estoy en busca de nuevos retos y aventuras — tanto en el código como en la vida 🌿✈️☕
 
