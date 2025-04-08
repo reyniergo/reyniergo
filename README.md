@@ -7,8 +7,8 @@ Soy un desarrollador apasionado por la tecnología, la naturaleza y las buenas e
 ## 💻 Tech Stack
 
 - ⚙️ **Backend:** C# (.NET), Python, Node.js
-- 🎨 **Frontend:** JavaScript, TypeScript, React, Next.js
-- 🗃️ **Bases de Datos:** SQL Server, PostgreSQL, MongoDB
+- 🎨 **Frontend:** JavaScript, TypeScript, Expo.js, React, React Native, Next.js, Vue.js, Nuxt.js, Angular
+- 🗃️ **Bases de Datos:** SQL Server, PostgreSQL, MySQL, MongoDB, Firebase
 - 🐳 **DevOps:** Docker, Git, CI/CD
 
 ---
