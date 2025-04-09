@@ -26,6 +26,7 @@ Soy un desarrollador apasionado por la tecnología, la naturaleza y las buenas e
 
 Si te interesa colaborar en un proyecto, tienes alguna idea interesante o simplemente quieres compartir una buena historia de viaje, ¡escríbeme!
 
+- Telegram: https://t.me/reyniergo
 - LinkedIn: https://www.linkedin.com/in/reyniergo/
 
 ---
